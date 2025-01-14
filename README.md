@@ -3,7 +3,14 @@ Creating eye-catching animated backdrops inspired by nature.
 
 Add these to your Microsoft Teams or Zoom background and wow your teammates!
 
-## Instructions
+## Method
+- I get inspired by an image, download it.
+- (Flux) Modify the image to get it into the right format (Resize / Upscale / Generative fill)
+- (ChatGPT) Generate a suitable video prompt.
+- (Sora) Run an image to video prompt. Iterate until I find something I like.
+- (Sora) Create a Loop of the video.
+
+## How to use the backdrops
 [Microsoft Teams](https://lazyadmin.nl/office-365/microsoft-teams-animated-background/)
 I have not been able to get the MP4 method in New Teams to work, however the GIF method does.
 
