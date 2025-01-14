@@ -12,7 +12,7 @@ Inspired by an image taken of the Earth, with cities streaking by below, capture
 
 [Upscaled image](./pettit-upscaled.jpeg) 
 
-[Expanded image](./pettit-expanded.jpg)
+[Expanded image](./pettit-expanded.jpeg)
 
 ## Videos
 [Video loop (MP4)](./pettit-loop.mp4)
