@@ -1,5 +1,13 @@
 # Reality-inspired Backdrops
-Creating eye-catching backdrops inspired by nature.
+Creating eye-catching animated backdrops inspired by nature.
+
+Add these to your Microsoft Teams or Zoom background and wow your teammates!
+
+## Instructions
+[Microsoft Teams](https://lazyadmin.nl/office-365/microsoft-teams-animated-background/)
+I have not been able to get the MP4 method in New Teams to work, however the GIF method does.
+
+[Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060387)
 
 
 ## List of available backdrops
