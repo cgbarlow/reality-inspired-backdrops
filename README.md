@@ -11,10 +11,10 @@ Add these to your Microsoft Teams or Zoom background and wow your teammates!
 - ([Sora](https://sora.com/)) _Create a Loop of the video._
 
 ## How to use the backdrops
-[Microsoft Teams](https://lazyadmin.nl/office-365/microsoft-teams-animated-background/)
+- [Microsoft Teams](https://lazyadmin.nl/office-365/microsoft-teams-animated-background/)
 I have not been able to get the MP4 method in New Teams to work, however the GIF method does.
 
-[Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060387)
+- [Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060387)
 
 
 ## List of available backdrops
