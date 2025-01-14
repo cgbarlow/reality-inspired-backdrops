@@ -5,7 +5,7 @@ Add these to your Microsoft Teams or Zoom background and wow your teammates!
 
 ## Method
 - _I get inspired by an image, download it._
-- ([Pixlr](https://pixlr.com)/[Flux](https://getimg.ai)) _Process the image to get it into the right format (Resize / Upscale / Generative fill)_
+- ([Pixlr](https://pixlr.com)/[Flux](https://getimg.ai)) _Process the image to get it into the right format (Resize / Upscale / Generative fill)._
 - ([ChatGPT](https://chatgpt.com/)) _Generate a suitable video prompt._
 - ([Sora](https://sora.com/)) _Run an image to video prompt. Re-roll until I get a video I like._
 - ([Sora](https://sora.com/)) _Create a Loop of the video._
