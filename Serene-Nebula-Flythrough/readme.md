@@ -1,7 +1,7 @@
 # Serene Nebula Flythrough
 Source: [Serpens Center Crop (NIRCam Image)](https://webbtelescope.org/contents/media/images/2024/115/01HYGKYF5SSD2744FSB1V6F9JS?itemsPerPage=100&page=1)
 
-Inspired by an image taken by the James Web Space Telescope on June 20, 2024. The image shows the center of the Serpens Nebula as seen by NASA’s James Webb Space Telescope’s Near-Infrared Camera (NIRCam).
+Inspired by an image taken by the James Web Space Telescope on June 20, 2024. The image shows the center of the Serpens Nebula as seen by the telescope’s Near-Infrared Camera (NIRCam).
 
 ![Video loop (GIF)](./Serene-Nebula-Flythrough.gif)
 
