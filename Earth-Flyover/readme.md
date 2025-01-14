@@ -10,7 +10,7 @@ Inspired by an image taken of the Earth, with cities streaking by below, capture
 ## Images
 [Original image](./pettit-original.jpg)
 
-[Upscaled image](./pettit-upscaled.jpg) 
+[Upscaled image](./pettit-upscaled.jpeg) 
 
 [Expanded image](./pettit-expanded.jpg)
 
