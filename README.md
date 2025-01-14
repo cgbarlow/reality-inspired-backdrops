@@ -1,7 +1,8 @@
 # Reality-inspired Backdrops
 Creating eye-catching backdrops inspired by nature.
 
-## Backdrops
+
+## List of available backdrops
 [Earth Flyover](./Earth-Flyover/readme.md)
 
 ![Video loop (GIF)](./Earth-Flyover/pettit-loop.gif)
